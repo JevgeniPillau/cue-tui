@@ -9,6 +9,18 @@ A fast, standalone Terminal User Interface (TUI) built with Python and [Textual]
 
 ---
 
+## Screenshots
+
+### Track Preview & Library Browser
+![CUE Audio Splitter Preview](assets/scr1.png)
+
+### Batch Splitting & Execution Report
+![CUE Audio Splitter Splitting](assets/scr2.png)
+
+### Palette view
+![CUE Audio Splitter Splitting](assets/scr3.png)
+
+
 ## Program Purpose
 
 Lossless album archives often arrive as a single large audio file paired with a `.cue` sheet (frequently encoded in legacy Windows-1251/Cyrillic or other non-UTF-8 charsets). `cue-tui` replaces command-line scripting with an interactive terminal dashboard that lets you browse your music library, preview parsed track titles and timestamps before touching any files, and split entire directory trees cleanly with FFmpeg.
@@ -141,20 +153,6 @@ python3 -m venv ~/.cue-venv
 | `~/.config/cue-tui/config.json` | Saved UI theme configuration |
 
 ---
-
-
-## Screenshots
-
-### Track Preview & Library Browser
-![CUE Audio Splitter Preview](assets/scr1.png)
-
-### Batch Splitting & Execution Report
-![CUE Audio Splitter Splitting](assets/scr2.png)
-
-### Palette view
-![CUE Audio Splitter Splitting](assets/scr3.png)
-
-
 
 ## License
 
