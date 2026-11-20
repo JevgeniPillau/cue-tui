@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+
+# Virtual Environments
+.venv/
+venv/
+.cue-venv/
+env/
+
+# PyInstaller Build Artifacts
+build/
+dist/
+*.spec
+
+# Void Linux XBPS Packaging Artifacts
+*.xbps
+hostdir/
+destdir/
+masterdir/
+
+# Temporary CUE & Audio Files
+*_utf8_temp.cue
+*.flac
+*.wav
+*.ape
+*.wv
+*.cue
+
+# Editor & OS Files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
