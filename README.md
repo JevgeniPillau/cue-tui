@@ -142,6 +142,20 @@ python3 -m venv ~/.cue-venv
 
 ---
 
+
+## Screenshots
+
+### Track Preview & Library Browser
+![CUE Audio Splitter Preview](assets/scr1.png)
+
+### Batch Splitting & Execution Report
+![CUE Audio Splitter Splitting](assets/scr2.png)
+
+### Palette view
+![CUE Audio Splitter Splitting](assets/scr3.png)
+
+
+
 ## License
 
 MIT License
